@@ -19,39 +19,6 @@ export default function AboutMe() {
           and ignited my enduring interest in the field. This eventually pushed
           me to build my own computer to start my programming journey.
         </p>
-        <div>
-          <br />
-          <br />
-          {/* <h1 className="hobby-title"> My Hobbies & Interests: </h1>
-          <br />
-          <br />
-          <ul className="hobbies">
-            <li>
-              <img src="https://cdn-icons-png.flaticon.com/128/802/802289.png" />
-              Tennis
-            </li>
-            <li>
-              <img src="https://cdn-icons-png.flaticon.com/128/738/738665.png" />
-              Football
-            </li>
-            <li>
-              <img src="https://cdn-icons-png.flaticon.com/128/6404/6404558.png" />
-              Attempting to make video games
-            </li>
-            <li>
-              <img src="https://cdn-icons-png.flaticon.com/128/2958/2958990.png" />
-              Centering Divs
-            </li>
-            <li>
-              <img src="https://cdn-icons-png.flaticon.com/128/3157/3157837.png" />
-              Modern Art
-            </li>
-            <li>
-              <img src="https://cdn-icons-png.flaticon.com/128/1865/1865273.png" />
-              Putting together PCs for clientele
-            </li>
-          </ul> */}
-        </div>
       </div>
     </>
   );
